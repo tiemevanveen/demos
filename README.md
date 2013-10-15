@@ -10,6 +10,7 @@ Terminal window 1:
 	buster-server
 
 Terminal window 2:
+
 	cd demos
 	cd buster-proxy-tests/
 	buster-test
